@@ -13,13 +13,13 @@
 
 # Notifications
 * by Minimize Main window you active the notifications window .. 
-![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/notify.JPG)
-![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/notify1.JPG)
+* ![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/notify.JPG)
+  ![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/notify1.JPG)
 
 # Restore Window 
 * Restore minimize main window .. or STOP Monitoring..
-![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/noti.JPG)
-![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/noti1.JPG)
+* ![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/noti.JPG)
+  ![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/noti1.JPG)
 
 
 
