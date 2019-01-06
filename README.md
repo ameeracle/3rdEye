@@ -36,7 +36,7 @@ js exe dll (space between extintions).
 * CLICK "Scan" >> "Start" ..
 * YOU CAN EXPORT RESAULT AFTER FIN BY CLICK ON "Scan" >> "Export" ... 
 
-#YOUTUBE..
+# YOUTUBE..
 
-* [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/p_VCey3gMXs/hqdefault.jpg)](https://www.youtube.com/watch?v=p_VCey3gMXs)
+ [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/p_VCey3gMXs/hqdefault.jpg)](https://www.youtube.com/watch?v=p_VCey3gMXs)
 
