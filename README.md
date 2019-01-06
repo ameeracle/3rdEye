@@ -27,7 +27,7 @@
 # How To Use ..?
 * + Dir : ِADD YOUR FOLDER TARGET TO MONITORING .
 * CHECK "All exts" TO MONITORING ALL EXTINTIONS OR CUSTOMIZE THAT BY ADD EXTS IN 
-*TEXT BOX :
+* TEXT BOX :
 js exe dll (space between extintions).
 * CLICK SAVE TO EXECUTE SETTINGS ON NEXT MONITORING .
 * CLICK "Scan" >> "Start" ..
