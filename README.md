@@ -2,7 +2,7 @@
 
 # Settings
 * Mange Your Monitor Result .. 
-![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/settings.JPG)
+* ![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/settings.JPG)
 
 # Main Form
 * Scan >> Start .. 
