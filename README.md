@@ -10,6 +10,7 @@
 ![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/MainForm1.JPG)
 ![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/MainForm2.JPG)
 ![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/MainForm3.JPG)
+![alt text](https://raw.githubusercontent.com/ServerDotApk/3rdEye/master/img/MainForm4.JPG)
 
 # Notifications
 * by Minimize Main window you active the notifications window .. 
