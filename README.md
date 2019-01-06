@@ -25,7 +25,7 @@
 
 
 # How To Use ..?
-* + Dir : ِADD YOUR FOLDER TARGET TO MONITORING .
+* +Dir : ِADD YOUR FOLDER TARGET TO MONITORING .
 * CHECK "All exts" TO MONITORING ALL EXTINTIONS OR CUSTOMIZE THAT BY ADD EXTS IN 
 * TEXT BOX :
 js exe dll (space between extintions).
